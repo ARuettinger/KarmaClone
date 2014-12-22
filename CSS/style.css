@@ -107,10 +107,6 @@ div.content {
 	width: 100%;
 	overflow: auto;
 }
-.content {
-
-
-}
 .content h1 {
 	margin-top: 17.5rem;
 	font-size: 3.125rem;
@@ -186,8 +182,8 @@ button {
 	border: 5px solid #eaebec;
 	text-align: center;
 }
-.icons li i {
-	width: ;
+.icons a {
+	text-decoration: none;
 }
 .fa-twitter {
 	color: #55acee;
